@@ -12,7 +12,7 @@ Make sure to create ```log.txt``` in the same directory as log.py after cloning 
 Use ```self.log``` to log to ```log.txt``` which remains in the current dir! Logs are cleared on re-initialization of the control surface or on Live restart
 
 ### Warning:
-**Do NOT** paste untrusted code into the "interpreter" client as **it uses** ``eval`` on the server!
+**Do NOT** send untrusted code into the "interpreter" client as **it uses** ``eval`` on the server!
 
 ### Contributing
 Open to ideas/suggestions/feedback and pull requests.
